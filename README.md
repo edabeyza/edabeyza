@@ -4,9 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-I am a Computer Engineer passionate about software development. I specialize in developing projects using JavaScript, Node.js, and React.js technologies. I am also interested in database management and API integrations.
+I am a Computer Engineer with a passion for software development. I specialize in building projects using JavaScript, Node.js, and React.js technologies. Additionally, I have a keen interest in database management and API integrations.
 
-Learning new technologies and continuously improving myself is very important to me. Through my projects on GitHub, I aim to apply and share what I have learned to further advance in this field.
+Learning new technologies and continuously improving my skills are very important to me. Through my projects on GitHub, I strive to apply my knowledge and share my experiences to advance further in this field.
+
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [edabeyzaozeren@gmail.com](mailto:edabeyzaozeren@gmail.com)
 * 🧠  I'm learning Node.js
