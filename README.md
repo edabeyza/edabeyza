@@ -4,8 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-I've been learning to code for 4 years, starting with HTML. My real passion, however, lies in backend development, especially with Node.js. I'm always excited to tackle new challenges and explore innovative solutions.
+I am a Computer Engineer passionate about software development. I specialize in developing projects using JavaScript, Node.js, and React.js technologies. I am also interested in database management and API integrations.
 
+Learning new technologies and continuously improving myself is very important to me. Through my projects on GitHub, I aim to apply and share what I have learned to further advance in this field.
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [edabeyzaozeren@gmail.com](mailto:edabeyzaozeren@gmail.com)
 * 🧠  I'm learning Node.js
