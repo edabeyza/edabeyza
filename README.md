@@ -8,7 +8,6 @@ I am a Computer Engineer with a passion for software development. I specialize i
 
 Learning new technologies and continuously improving my skills are very important to me. Through my projects on GitHub, I strive to apply my knowledge and share my experiences to advance further in this field.
 
-* 🌍  I'm based in Turkey
 * ✉️  You can contact me at [edabeyzaozeren@gmail.com](mailto:edabeyzaozeren@gmail.com)
 * 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on interesting projects
