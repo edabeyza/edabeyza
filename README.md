@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Developer
 -------------------
 
-I am a Computer Engineer with a passion for software development. I specialize in building projects using JavaScript, Node.js, and React.js technologies. Additionally, I have a keen interest in database management and API integrations. 
+I am a Computer Engineer with a passion for software development. I specialize in building projects using JavaScript, Node.js, and React.js technologies. Additionally, I have a keen interest in database management and API integrations.  
 
 Learning new technologies and continuously improving my skills are very important to me. Through my projects on GitHub, I strive to apply my knowledge and share my experiences to advance further in this field.
 
