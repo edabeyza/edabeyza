@@ -10,7 +10,7 @@ Learning new technologies and continuously improving my skills are very importan
 
 * ✉️  You can contact me at [edabeyzaozeren@gmail.com](mailto:edabeyzaozeren@gmail.com)
 * 🧠  I'm learning Node.js
-* 🤝  I'm open to collaborating on interesting projects    
+* 🤝  I'm open to collaborating on interesting projects     
 
 ### Skills
 
